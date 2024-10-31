@@ -229,27 +229,7 @@ public class Main {
 
 
     //
-    //    public static void Fibonacci(int number) {
-    //        if (number <= 0) { // Check for positive numbers
-    //            System.out.println("Please enter a positive number.");
-    //            return; // Exit the method if the input is not valid
-    //        }
-    //
-    //        int first = 0; // First Fibonacci number
-    //        int second = 1; // Second Fibonacci number
-    //
-    //        System.out.println("Fibonacci sequence with " + number + " terms:");
-    //        for (int i = 0; i < number; i++) { // Loop through the number of terms
-    //            System.out.print(first + " "); // Print the current Fibonacci number
-    //
-    //            // Calculate the next Fibonacci number
-    //            int next = first + second;
-    //            first = second; // Update first to the second
-    //            second = next; // Update second to the next number
-    //        }
-    //        System.out.println(); // New line after printing all terms
-    //    }
-    //}
+
 
 //    public static void random(int min, int max) {
 //        Random ran = new Random();
